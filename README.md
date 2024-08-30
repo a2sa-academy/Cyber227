@@ -1,2 +1,2 @@
 # Cyber227
-epository dédié aux ressources et outils de sécurité informatique
+Repository dédié aux ressources et outils de sécurité informatique
